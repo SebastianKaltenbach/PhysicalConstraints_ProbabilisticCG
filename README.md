@@ -22,7 +22,7 @@ For the pendulum example:
 ## Particle example
 The proposed framework is applied to a system of moving particle. We are able to extract meaningful CG dynamics as well as to do interpolative and extrapolative predictions.
 
-![overview](https://raw.githubusercontent.com/SebastianKaltenbach/PhysicalConstraints_ProbabilisticCG/master/Example_Burgers.pdf)
+![Burgers_result](https://raw.githubusercontent.com/SebastianKaltenbach/PhysicalConstraints_ProbabilisticCG/master/Example_Burgers.pdf)
 
 To visualize the results, please use the file Prediction.ipynb
 
